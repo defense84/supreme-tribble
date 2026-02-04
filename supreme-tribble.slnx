@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BenchmarkSuite1/BenchmarkSuite1.csproj" />
+  <Project Path="CodExponential.ui/CodExponential.ui.csproj" />
+  <Project Path="CodExponential/CodExponential.csproj" />
+  <Project Path="Images/Images.csproj" />
+</Solution>
